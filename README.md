@@ -1,6 +1,6 @@
 
 
-<img align="right" alt="Coding" width="100%" src="banner.png">
+<img align="right" alt="Coding" width="100%" src="mainBanner.png">
 
 <h3 align="center">An enthusiast for machine learning, data analytics, and full-stack software development</h3>
 
