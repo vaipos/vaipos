@@ -9,7 +9,6 @@
 
 - I’m currently working on becoming a Machine Learning Specialist
 - I’m currently learning Multi-classification/multi-label Neural Networks
-- Pronouns: She/her
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
