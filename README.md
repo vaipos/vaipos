@@ -5,7 +5,7 @@
 <h1></h1>
 <h1></h1>
 
-<h3 align="left">An enthusiast for machine learning, data analytics, and full-stack software development</h3>
+<h3 align="left">Someone who is passionate about machine learning, data analytics, and full-stack software development.</h3>
 
 - I’m currently working on becoming a Machine Learning Specialist
 - I’m currently learning Multi-classification/multi-label Neural Networks
