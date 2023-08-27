@@ -1,6 +1,6 @@
 
 
-<img align="right" alt="Coding" width="100%" src="img.png">
+<img align="right" alt="Coding" width="100%" src="banner.png">
 <h3 align="left">Passionate about machine learning, data analytics, and full-stack software development </h3>
 
 - I’m currently working on becoming a Machine Learning Specialist
