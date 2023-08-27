@@ -1,10 +1,10 @@
 ![Alt text](img.png)
 
 
-- I’m currently working on becoming a Machine Learning Specialist
-- I’m currently learning Multi-classification/multi-label Neural Networks
+- 🤓 I’m currently working on becoming a Machine Learning Specialist
+- 📓 I’m currently learning Multi-classification/multi-label Neural Networks
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🤝🏽: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaishnavi-pasumarthi-683726251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-pasumarthi-683726251" height="30" width="40" /></a>
 <a href="https://kaggle.com/vaishnavipasumarthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vaishnavipasumarthi" height="30" width="40" /></a>
