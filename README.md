@@ -1,9 +1,8 @@
-### Hi there 👋
 
 
-<h1 align="center">This is Vaishnavi Pasumarthi 🌿</h1>
+<img align="right" alt="Coding" width="100%" src="banner.png">
+
 <h3 align="center">An enthusiast for machine learning, data analytics, and full-stack software development</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.pnghd.pics/data/14/coding-gif-24.gif">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
