@@ -1,6 +1,5 @@
 
-
-<img align="right" alt="Coding" width="100%" src="banner.png">
+<h1 align = "left">Hi! 👋🏽 </br>I'm Vaishnavi Pasumarthi</h1>
 
 
 - I’m currently working on becoming a Machine Learning Specialist
