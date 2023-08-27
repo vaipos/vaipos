@@ -2,6 +2,9 @@
 
 <img align="right" alt="Coding" width="100%" src="img.png">
 
+<h1></h1>
+<h1></h1>
+
 <h3 align="left">An enthusiast for machine learning, data analytics, and full-stack software development</h3>
 
 - I’m currently working on becoming a Machine Learning Specialist
