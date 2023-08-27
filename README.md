@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me 🤝🏽: </h3>
 <p align="left">
-<a href="https://linkedin.com/in/vaishnavi-pasumarthi-683726251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-pasumarthi-683726251" height="30" width="40" /></a>
-<a href="https://kaggle.com/vaishnavipasumarthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vaishnavipasumarthi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaishnavi-pasumarthi-683726251" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="vaishnavi-pasumarthi-683726251" height="50" width="50" /></a>
+<a href="https://kaggle.com/vaishnavipasumarthi" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/kaggle-icon-512x512-ubnqei0x.png" alt="vaishnavipasumarthi" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages: </h3>
