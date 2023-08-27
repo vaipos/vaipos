@@ -1,5 +1,4 @@
-![Alt text](https://i.redd.it/ehbqf5949lg71.png)
-<h1 align = "left">Hi! 👋🏽 </br>I'm Vaishnavi Pasumarthi</h1>
+![Alt text](img.png)
 
 
 - I’m currently working on becoming a Machine Learning Specialist
