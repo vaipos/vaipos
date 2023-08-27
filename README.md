@@ -1,7 +1,7 @@
 
 
 <img align="right" alt="Coding" width="100%" src="banner.png">
-<h3 align="left">Passionate about machine learning, data analytics, and full-stack software development </h3>
+
 
 - I’m currently working on becoming a Machine Learning Specialist
 - I’m currently learning Multi-classification/multi-label Neural Networks
