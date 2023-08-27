@@ -4,10 +4,9 @@
 
 <h3 align="center">An enthusiast for machine learning, data analytics, and full-stack software development</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I’m currently working on becoming a Machine Learning Specialist
+- I’m currently learning Multi-classification/multi-label Neural Networks
+- Pronouns: She/her
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
